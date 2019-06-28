@@ -17,3 +17,5 @@ class Solution(object):
 if __name__=="__main__":
     sol = Solution()
     print(sol.peakIndexInMountainArray([0,1,2,3,5,0]))
+    print(sol.peakIndexInMountainArray([0,2,0]))
+    print(sol.peakIndexInMountainArray([0,1,0]))
